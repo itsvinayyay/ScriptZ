@@ -1,0 +1,15 @@
+{
+  "name": "scriptz-backend",
+  "version": "1.0.0",
+  "description": "Backend for ScriptZ Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scriptz",
+    "Backend"
+  ],
+  "author": "Vinay Vashist",
+  "license": "ISC"
+}
